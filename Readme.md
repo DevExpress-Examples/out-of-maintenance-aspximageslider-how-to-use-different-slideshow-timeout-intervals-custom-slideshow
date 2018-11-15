@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/E4913/Default.aspx) (VB: [Default.aspx.vb](./VB/E4913/Default.aspx.vb))
+* [Default.aspx.cs](./CS/E4913/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/E4913/Default.aspx.vb))
+<!-- default file list end -->
 # ASPxImageSlider - How to use different SlideShow timeout intervals (custom SlideShow functionality)
 
 
