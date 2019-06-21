@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/E4913/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/E4913/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxImageSlider - How to use different SlideShow timeout intervals (custom SlideShow functionality)
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4913/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to implement custom SlideShow functionality by using the ASPxImageSlider's client-side API.</p>
