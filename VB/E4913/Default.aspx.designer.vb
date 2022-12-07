@@ -31,7 +31,7 @@ Namespace E4913
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected hfCustomIntervals As Global.DevExpress.Web.ASPxHiddenField.ASPxHiddenField
+		Protected hfCustomIntervals As Global.DevExpress.Web.ASPxHiddenField
 
 		''' <summary>
 		''' btPlay control.
@@ -40,7 +40,7 @@ Namespace E4913
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected btPlay As Global.DevExpress.Web.ASPxEditors.ASPxButton
+		Protected btPlay As Global.DevExpress.Web.ASPxButton
 
 		''' <summary>
 		''' imageSlider control.
@@ -49,6 +49,6 @@ Namespace E4913
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected imageSlider As Global.DevExpress.Web.ASPxImageSlider.ASPxImageSlider
+		Protected imageSlider As Global.DevExpress.Web.ASPxImageSlider
 	End Class
 End Namespace

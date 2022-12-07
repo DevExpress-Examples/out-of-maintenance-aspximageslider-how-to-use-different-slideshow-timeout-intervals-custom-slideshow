@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
-using DevExpress.Web.ASPxHiddenField;
+using DevExpress.Web;
 
 namespace E4913 {
     public partial class Default : System.Web.UI.Page {

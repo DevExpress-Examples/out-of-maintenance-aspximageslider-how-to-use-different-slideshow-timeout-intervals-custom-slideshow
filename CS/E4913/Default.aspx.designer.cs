@@ -28,7 +28,7 @@ namespace E4913 {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxHiddenField.ASPxHiddenField hfCustomIntervals;
+        protected global::DevExpress.Web.ASPxHiddenField hfCustomIntervals;
         
         /// <summary>
         /// btPlay control.
@@ -37,7 +37,7 @@ namespace E4913 {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxButton btPlay;
+        protected global::DevExpress.Web.ASPxButton btPlay;
         
         /// <summary>
         /// imageSlider control.
@@ -46,6 +46,6 @@ namespace E4913 {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxImageSlider.ASPxImageSlider imageSlider;
+        protected global::DevExpress.Web.ASPxImageSlider imageSlider;
     }
 }

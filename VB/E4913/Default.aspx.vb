@@ -5,7 +5,7 @@ Imports System.Linq
 Imports System.Web
 Imports System.Web.UI
 Imports System.Web.UI.WebControls
-Imports DevExpress.Web.ASPxHiddenField
+Imports DevExpress.Web
 
 Namespace E4913
 	Partial Public Class [Default]
